@@ -24,7 +24,7 @@ Projeto de faculdade que simula um sistema de cadastro e consulta de livros util
 
 1. Execute o script:
    ```bash
-   python livraria.py
+   python controle_de_livros.py
 👨‍💻 Autor
 Felipe Miguel
 GitHub | LinkedIn
