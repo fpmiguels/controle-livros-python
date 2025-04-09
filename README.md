@@ -1,2 +1,30 @@
-# livraria.py
-Este código Python foi desenvolvido para gerenciar um controle de livros de uma biblioteca. O programa oferece funcionalidades para cadastrar livros, consultar informações por ID, autor ou visualizar todos os livros cadastrados, além de permitir a remoção de livros da lista.
+# Controle de Livros - Python
+
+Projeto de faculdade que simula um sistema de cadastro e consulta de livros utilizando listas e dicionários em Python.
+
+## 📚 Funcionalidades
+
+- Cadastrar livros com:
+  - ID automático
+  - Nome
+  - Autor
+  - Editora
+- Consultar livros por:
+  - Todos os livros
+  - ID
+  - Autor
+- Remover livro pelo ID
+- Menu interativo no terminal
+
+## 🛠️ Tecnologias
+
+- Python (puro)
+
+## ▶️ Como usar
+
+1. Execute o script:
+   ```bash
+   python livraria.py
+👨‍💻 Autor
+Felipe Miguel
+GitHub | LinkedIn
